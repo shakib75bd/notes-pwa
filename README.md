@@ -95,4 +95,4 @@ Add screenshots of your app in the `/public/screenshots` directory and link them
 
 ### Author
 
-Developed by [Your Name](https://github.com/your-profile).
+Developed by [Shakib Hossen Shanto](https://github.com/shakib75bd).
